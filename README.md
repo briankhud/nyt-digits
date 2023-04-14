@@ -16,9 +16,15 @@ The output is the original problem, followed by a single equation showing the so
 From the example problem above:
 
 59: [2, 3, 5, 11, 15, 25]
+
 (2 + (3 * (11 + ((15 + 25) / 5)))) = 59.0
+
 15 + 25 = 40
+
 40 / 5 = 8.0
+
 11 + 8.0 = 19.0
+
 3 * 19.0 = 57.0
+
 2 + 57.0 = 59.0
